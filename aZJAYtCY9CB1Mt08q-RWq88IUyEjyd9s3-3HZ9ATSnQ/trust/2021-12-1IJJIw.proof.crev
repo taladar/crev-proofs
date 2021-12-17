@@ -1,0 +1,17 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2021-12-17T09:12:54.240346335+01:00"
+from:
+  id-type: crev
+  id: aZJAYtCY9CB1Mt08q-RWq88IUyEjyd9s3-3HZ9ATSnQ
+  url: "https://github.com/taladar/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: high
+----- SIGN CREV PROOF -----
+3-XGpdbegu60IHD4o_p_bCaUR1kAaq2Kp8JNbfQ_R2pBRVetVSJ0FZFEcLtOmgAvXZDzNWLuoJJk3GhNkX7DCQ
+----- END CREV PROOF -----
+
