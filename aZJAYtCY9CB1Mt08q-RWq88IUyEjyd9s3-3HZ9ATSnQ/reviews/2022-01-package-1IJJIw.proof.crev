@@ -1,0 +1,22 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2022-01-31T19:33:01.248710796+01:00"
+from:
+  id-type: crev
+  id: aZJAYtCY9CB1Mt08q-RWq88IUyEjyd9s3-3HZ9ATSnQ
+  url: "https://github.com/taladar/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: dotenv
+  version: 0.15.0
+  revision: fa467c4febe3e1b1f406fbe5e3550afedffe5d82
+  digest: yt3OICvoflMGy9nGs5dw2wmQ3R5aWMRwGlfbR3KIeFo
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+9hbYhG7WUZ_f86l0w5YIa9fa5jUMEMT6dqVi5Wwr-cTbm9VP58R0FvQaS57cCWQpeqzqL3RXkqZYlg85_Z6FCQ
+----- END CREV PROOF -----
+
